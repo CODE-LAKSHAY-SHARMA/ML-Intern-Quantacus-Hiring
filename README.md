@@ -3,7 +3,7 @@
 
 # Email Marketing Campaign Optimization - Documentation
 
-## Overview
+## Overviews
 
 This project analyzes an email marketing campaign for an e-commerce site and builds a machine learning model to optimize future campaigns by predicting which users are most likely to click links within marketing emails.
 
